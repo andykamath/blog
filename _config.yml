@@ -3,7 +3,7 @@ title: 80 Days of Summer Break
 email: andy@hackgician.net
 description: > # this means to ignore newlines until "baseurl:"
   Hi! My name is Andy Kamath. I'm a rising Junior in the Providence High School Class of 2017. In an effort to make my summer more productive, I have simply set up this blog to say what exactly I have accomplished every day.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://andykamath.com/blog" # the base hostname & protocol for your site
 twitter_username: baesedandy
 github_username:  andykamath
