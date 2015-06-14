@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+
 /*
  *  __                  __
  * /\ \                /\ \
@@ -32,12 +34,12 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Titillium Web", Helvetica, Arial, sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6,p,a,li,span
 {
-  font-family: 'PT Sans';
+  font-family: 'Titillium Web';
 }
 
 @media (min-width: 48em) {
