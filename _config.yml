@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Andy Kamath
 tagline:          'Just a kid on summer break'
-description:      '80 Days of Summer Break. I\'m a rising junior in High School, and in an effort to make my summer more productive, I decided to make a blog entailing everything I did in a day.'
+description:      "80 Days of Summer Break. I\'m a rising junior in High School, and in an effort to make my summer more productive, I decided to make a blog entailing everything I did in a day."
 url:              http://hyde.getpoole.com
 baseurl:          /blog
 
